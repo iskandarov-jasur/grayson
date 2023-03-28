@@ -495,3 +495,9 @@ li:last-of-type .dropdown__link::after {
     background: #41A28E;
     border-radius: 5px;
 }
+
+.window {
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+}
